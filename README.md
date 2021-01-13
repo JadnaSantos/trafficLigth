@@ -3,7 +3,7 @@
 # Trafic Light
 
 ## Hello Everyone🚀
-<p align="center"> In this project I create trafic light and I used HTML5, CSS3 and JavaScript pure.</p>
+<p align="center"> In this project I create trafic light and I used HTML5, CSS3 and JavaScript Pure.</p>
 
 <h1 align="center">
   <a href="https://www.javascript.com/">🔗 JavaScript</a>
