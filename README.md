@@ -2,7 +2,8 @@
 
 ### Trafic Light
 
-<p> In this project I create trafic light and I used HTML5, CSS3 and JavaScript Pure.</p>
+<p>In this project I created a traffic light and for the development I used HTML5, CSS3 and JavaScript, to change the colors of the signals I used the setInterval() method to specify the intervals.</p>
+
 <h3>🛠 Technology</h3>
 
 <p>Tools used in building the project</p>
@@ -15,4 +16,4 @@
 🚧   🚀 Finished  🚧
 </h4>      
 
-                                                
+                                             
